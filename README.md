@@ -3,7 +3,7 @@
 #### I'm the Director of Technology at [RedTag](https://redtag.digital).
 
 - 🏡 I work remote from South Carolina, USA
-- 🛠 My tools of choice: `php`, `laravel`, `livewire`, `js`, `css`, `html`, `mysql`
+- 🛠 My tools of choice: `php`, `laravel`, `livewire`, `alpine`, `js`, `tailwind`, `css`, `html`, `mysql`
 - 💎 My first programming language: `ruby`
 - ✏️  What I want to learn next: `elixir`
 - 🖋 I'm a huge fountain pen / stationary addict

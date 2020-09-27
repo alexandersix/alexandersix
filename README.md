@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋🏻 Hello! 
 
-<!--
-**AlexanderSix/alexandersix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm the Director of Technology at [RedTag](https://redtag.digital).
 
-Here are some ideas to get you started:
+- 🏡 I work remote from South Carolina, USA
+- 🛠 My tools of choice: `php`, `laravel`, `livewire`, `js`, `css`, `html`, `mysql`
+- 💎 My first programming language: `ruby`
+- ✏️  What I want to learn next: `elixir`
+- 🖋 I'm a huge fountain pen / stationary addict
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Get in Contact
+- 🐦 [Twitter](https://twitter.com/alexandersix_)
+- 🖥 [My Website](https://alexandersix.com)
+- ⌨️ [GitHub](https://github.com/alexandersix) (You are here.)

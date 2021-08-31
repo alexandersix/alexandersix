@@ -10,5 +10,5 @@
 
 #### Get in Contact
 - 🐦 [Twitter](https://twitter.com/alexandersix_)
-- 🖥 [My Website](https://alexandersix.com)
+- 🖥 [My Website](https://alexandersix.com) (To be redesigned...soon!)
 - ⌨️ [GitHub](https://github.com/alexandersix) (You are here.)

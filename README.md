@@ -1,6 +1,6 @@
 ### 👋🏻 Hello! 
 
-#### I'm the Director of Technology at [RedTag](https://redtag.digital).
+#### I'm a Web Application Developer at [Kirschbaum](https://kirschbaumdevelopment.com/).
 
 - 🏡 I work remote from South Carolina, USA
 - 🛠 My tools of choice: `php`, `laravel`, `livewire`, `alpine`, `vue`, `js`, `tailwind`, `css`, `html`, `mysql`

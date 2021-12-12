@@ -5,7 +5,7 @@
 - 🏡 I work remote from South Carolina, USA
 - 🛠 My tools of choice: `php`, `laravel`, `livewire`, `alpine`, `vue`, `svelte`, `js`, `tailwind`, `css`, `html`, `mysql`
 - 💎 My first programming language: `ruby` & `c` (same time, one on my own and one for class)
-- ✏️  What I want to learn next: `elixir` & `go`
+- ✏️  What I want to learn next: `go` & `lua`
 - 🖋 I'm a huge fountain pen / stationary addict
 
 #### Get in Contact

@@ -1,4 +1,4 @@
-![./assets/gh-header.jpg](My name is Alex, nice to meet you!)
+[![My name is Alex, nice to meet you!](./assets/gh-header.jpg)](https://alexandersix.com)
 
 ### 👋 Hello!
 

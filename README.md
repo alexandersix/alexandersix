@@ -2,7 +2,7 @@
 
 ### 👋 Hello!
 
-#### I'm a Senior Software Development Engineer at [Zillow](https://www.zillowgroup.com/) & Head of DevRel at [Filament](https://filamentphp.com).
+#### I'm a Senior Software Development Engineer at [Zillow](https://www.zillowgroup.com/) & Head of Developer Relations at [Filament](https://filamentphp.com).
 
 - 🏡 I work remote from South Carolina, USA
 - 🛠  My tools of choice: `php`, `laravel`, `livewire`, `alpine`, `vue`, `svelte`, `js`, `tailwind`, `css`, `html`, `mysql`
